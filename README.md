@@ -23,7 +23,12 @@
 - Python 3  
 - pyTelegramBotAPI  
 - requests  
-- PokeAPI — https://pokeapi.co  
+- PokeAPI — https://pokeapi.co
+
+- 
+## 🖼 Скриншоты
+
+Пример работы бота в Telegram:
 <img width="546" height="833" alt="Снимок экрана 2025-12-26 130126" src="https://github.com/user-attachments/assets/adbd83be-fe6e-4849-ae8e-8bb755d6f51b" />
 
 
